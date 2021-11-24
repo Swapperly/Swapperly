@@ -38,12 +38,6 @@ function App() {
      {/* SearchPage */}
 
 
-    <div>
-        Test 16
-    </div>
-
-
-
     </div>
   );
 }
