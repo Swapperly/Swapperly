@@ -37,7 +37,7 @@ function App() {
        
      {/* SearchPage */}
 
-    <p>Test Andrei VS Code</p>
+    <p>Test Andrei IntelliJ</p>
 
     </div>
   );
