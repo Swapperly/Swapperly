@@ -41,6 +41,8 @@ function App() {
 
       <p>Test Andrei new branch PR open</p>
 
+      <p>Test 2 Andrei new branch PR open</p>
+
     </div>
   );
 }
