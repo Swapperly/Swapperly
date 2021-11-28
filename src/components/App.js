@@ -35,13 +35,7 @@ function App() {
 
       </Router>
        
-     {/* SearchPage */}
-
-    <p>Test Iulian VS</p>
-
-      <p>Test Andrei new branch PR open</p>
-
-      <p>Test 2 Andrei new branch PR open</p>
+     {/* SearchPage */} 
 
     </div>
   );
