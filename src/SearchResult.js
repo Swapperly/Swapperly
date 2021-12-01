@@ -1,4 +1,4 @@
-import { FavoriteBorder } from '@mui/icons-material'
+// import { FavoriteBorder } from '@mui/icons-material'
 import React from 'react'
 import './SearchResult.css'
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
