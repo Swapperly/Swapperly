@@ -38,7 +38,7 @@ export default function App() {
      {/* SearchPage */} 
 
     </div>
-  );
+  )
 }
 
 // export default App;
