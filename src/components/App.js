@@ -12,7 +12,7 @@ export default function App() {
   return (
 
     //BEM
-    <div className="app">
+    <div>
 
       <Router>
 
