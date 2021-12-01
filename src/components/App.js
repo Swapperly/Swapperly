@@ -12,7 +12,7 @@ export default function App() {
   return (
 
     //BEM
-    <div>
+    <span>
 
       <Router>
 
@@ -37,7 +37,7 @@ export default function App() {
        
      {/* SearchPage */} 
 
-    </div>
+    </span>
   )
 }
 
