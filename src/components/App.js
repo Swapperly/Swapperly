@@ -8,11 +8,11 @@ import SearchPage from '../SearchPage';
 
 import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom"
 
-export default function App() {
+function App() {
   return (
 
     //BEM
-    <span>
+    <div className="app">
 
       <Router>
 
@@ -37,8 +37,8 @@ export default function App() {
        
      {/* SearchPage */} 
 
-    </span>
-  )
+    </div>
+  );
 }
 
-// export default App;
+export default App;
