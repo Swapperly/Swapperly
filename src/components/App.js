@@ -8,7 +8,7 @@ import SearchPage from '../SearchPage';
 
 import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom"
 
-function App() {
+export default function App() {
   return (
 
     //BEM
@@ -41,4 +41,4 @@ function App() {
   );
 }
 
-export default App;
+// export default App;
