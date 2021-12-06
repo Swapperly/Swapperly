@@ -24,7 +24,7 @@ function Header() {
             </div> 
 
             <div className='header_right'>
-                <p>Become a host. Test Deploy</p>
+                <p>Become a host. Test changed repo name</p>
                 <LanguageIcon />
                 <ExpandMoreIcon />
                 <Avatar />
